@@ -3,7 +3,7 @@
 
 <p align="left"> <img alighn="right" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="nouha-ech" /> 
 </p>
-- 🌱 I’m currently learning **javascript and php**
+- 🌱 I’m currently learning **javascript and php** <br>
 - Currently studying information systems development in BTS🚀
 
 
