@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm nohaila🦋!</h1>
 <h3 align="center">A junior developer passionate about creating aesthetically pleasing websites and intuitive user interfaces</h3>
 
-<p align="left"> <img alighn="right" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="nouha-ech" /> </p>
+<p align="left"> <img alighn="right" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="nouha-ech" /> 
+- 🌱 I’m currently learning **javascript and php**
+- Currently studying information systems development in BTS🚀
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nouha-ech" alt="nouha-ech" /></a> </p>
 
-- 🌱 I’m currently learning **javascript and php**
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
