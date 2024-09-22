@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-| Text | Image |
+
 | ---- | ----- |
 | 👩🏻‍💻 Full-stack developer deeply passionate about creating pleasing websites and solving users' problems.<br>🖳 Currently studying information systems development in BTS Abderrahman Ben Ghazala.<br>🖱️ Currently studying JAVASCRIPT.<br>📈 Currently diving into the world of MERN STACK.<br>💬 Ask me about React, NodeJs, NextJs, MongoDB, MySQL... or anything here! | <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*K2WLMTExLyida7OR.gif" alt="nouha-ech" width="400"/> |
 
