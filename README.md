@@ -2,7 +2,7 @@
 <h3 align="center">A junior developer passionate about creating aesthetically pleasing websites and intuitive user interfaces</h3>
 
 
-<p align="left"> <img alighn="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*K2WLMTExLyida7OR.gif" alt="nouha-ech" /> 
+<p align="right"> <img alighn="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*K2WLMTExLyida7OR.gif" alt="nouha-ech" /> 
 </p>
 
 # 💫 About Me:
