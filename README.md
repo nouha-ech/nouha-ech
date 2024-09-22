@@ -2,20 +2,12 @@
 <h3 align="center">A junior developer passionate about creating aesthetically pleasing websites and intuitive user interfaces</h3>
 
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h1>💫 About Me:</h1>
-    <p>👩🏻‍💻 Full-stack developer deeply passionate about creating pleasing websites and solving users' problems.</p>
-    <p>🖳 Currently studying information systems development in BTS Abderrahman Ben Ghazala.</p>
-    <p>🖱️ Currently studying JAVASCRIPT.</p>
-    <p>📈 Currently diving into the world of MERN STACK.</p>
-    <p>💬 Ask me about React, NodeJs, NextJs, MongoDB, MySQL... or anything here!</p>
-  </div>
-  
-  <div style="flex: 1; text-align: right;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*K2WLMTExLyida7OR.gif" alt="nouha-ech" width="400" />
-  </div>
-</div>
+# 💫 About Me:
+
+| Text | Image |
+| ---- | ----- |
+| 👩🏻‍💻 Full-stack developer deeply passionate about creating pleasing websites and solving users' problems.<br>🖳 Currently studying information systems development in BTS Abderrahman Ben Ghazala.<br>🖱️ Currently studying JAVASCRIPT.<br>📈 Currently diving into the world of MERN STACK.<br>💬 Ask me about React, NodeJs, NextJs, MongoDB, MySQL... or anything here! | <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*K2WLMTExLyida7OR.gif" alt="nouha-ech" width="400"/> |
+
 
 
 ## 🌐 Socials:
