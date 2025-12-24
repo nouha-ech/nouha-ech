@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm nohaila🦋!</h1>
-<h3 align="center">A junior developer passionate about creating aesthetically pleasing websites and intuitive user interfaces</h3>
+<h3 align="center">A Cybersecurity and digital trust Student ENSET Mohammedia </h3>
 
 
 # 💫 About Me:
 
 |      |       |
 | ---- | ----- |
-| 👩🏻‍💻 Full-stack developer deeply passionate about creating pleasing websites and solving users' problems.<br>🖳 Currently studying information systems development in BTS Abderrahman Ben Ghazala.<br>🖱️ Currently studying JAVASCRIPT.<br>📈 Currently diving into the world of MERN STACK.<br>💬 Ask me about React, NodeJs, NextJs, MongoDB, MySQL... or anything here! | <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*K2WLMTExLyida7OR.gif" alt="nouha-ech" width="400"/> |
+| 👩🏻‍💻 Cybersecurity Enthusiast with a Passion for Digital Trust and Securing Applications.<br>
+🔐 Currently learning the ins and outs of ethical hacking, capture the flag (CTF) challenges, and secure application development.<br>
+💻 Exploring full-stack development with a focus on building secure, user-friendly websites.<br>
+🎯 Always diving deeper into areas like network security, cryptography, and web security.<br>
+💬 Feel free to ask me about cybersecurity best practices, penetration testing, or how to secure modern apps! | <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFkemJzeWY2bWZqbXZvZWZlcWJ3OTczaHEzY3dpNmRqenc5YjB4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="nouha-ech" width="400"/> |
 
 
 
