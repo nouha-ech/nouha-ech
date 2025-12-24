@@ -3,14 +3,13 @@
 
 
 # 💫 About Me:
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFkemJzeWY2bWZqbXZvZWZlcWJ3OTczaHEzY3dpNmRqenc5YjB4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="nouha-ech" width="400"/> 
 
-|      |       |
-| ---- | ----- |
-| 👩🏻‍💻 Cybersecurity Enthusiast with a Passion for Digital Trust and Securing Applications.<br>
+👩🏻‍💻 Cybersecurity Enthusiast with a Passion for Digital Trust and Securing Applications.<br>
 🔐 Currently learning the ins and outs of ethical hacking, capture the flag (CTF) challenges, and secure application development.<br>
 💻 Exploring full-stack development with a focus on building secure, user-friendly websites.<br>
 🎯 Always diving deeper into areas like network security, cryptography, and web security.<br>
-💬 Feel free to ask me about cybersecurity best practices, penetration testing, or how to secure modern apps! | <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFkemJzeWY2bWZqbXZvZWZlcWJ3OTczaHEzY3dpNmRqenc5YjB4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="nouha-ech" width="400"/> |
+💬 Feel free to ask me about cybersecurity best practices, penetration testing, or how to secure modern apps! 
 
 
 
